@@ -5,11 +5,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Pixel Positions</title>
+    <link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
     @vite("resources/css/app.css")
 </head>
-<body class="bg-black text-white">
+<body class="bg-black text-white font-sans ">
 <div class="px-10">
-<nav class="flex justify-between items-center py-6 border border-white/10 ">
+<nav class="flex justify-between items-center py-6 border border-white/10 sticky top-0 z-10 backdrop-blur-md">
     <div>
         <a href="/">
             <img src="{{ Vite::asset("resources/images/logo.svg") }}" alt="Pixel">

@@ -5,12 +5,14 @@
         <p>Full Time - From $100,000</p>
 
     </div>
-    <div class="flex justify-between items-center mt-auto ">
+    <div class="flex justify-between items-center mt-auto  grow">
         <div class="space-x-2">
-            <x-tag size="small">Tag</x-tag>
-            <x-tag size="small">Tag</x-tag>
-            <x-tag size="small">Tag</x-tag>
-            <x-tag size="small">Tag</x-tag>
+            <x-tag size="small">Backend</x-tag>
+            <x-tag size="small">Front-End</x-tag>
+            <x-tag size="small">PHP</x-tag>
+            <x-tag size="small">Laravel</x-tag>
+            <x-tag size="small">Rust</x-tag>
+            <x-tag size="small">JavaScript</x-tag>
         </div>
         <x-employer-logo :width="30"></x-employer-logo>
     </div>

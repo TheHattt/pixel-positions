@@ -8,9 +8,9 @@
         <p class="text-sm text-gray-400 mt-auto">Full Time - From $80,000</p>
     </div>
 
-    <div class="space-x-2 ">
-            <x-tag>Tag</x-tag>
-            <x-tag>Tag</x-tag>
-            <x-tag>Tag</x-tag>
+    <div class="space-x-2   ">
+        <x-tag >Front-End</x-tag>
+        <x-tag >PHP</x-tag>
+        <x-tag >Laravel</x-tag>
     </div>
 </div>

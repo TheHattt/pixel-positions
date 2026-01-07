@@ -10,7 +10,7 @@
 </head>
 <body class="bg-black text-white font-sans ">
 <div class="px-10">
-<nav class="flex justify-between items-center py-6 border border-white/10 sticky top-0 z-10 backdrop-blur-md">
+<nav class="flex justify-between items-center py-6 border-b border-white/10 sticky top-0 z-10 backdrop-blur-md">
     <div>
         <a href="/">
             <img src="{{ Vite::asset("resources/images/logo.svg") }}" alt="Pixel">
